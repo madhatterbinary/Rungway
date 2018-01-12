@@ -1,6 +1,6 @@
 # Code sample for Rungway
 
-- Type in terminal > git clone https://github.com/StephenGrider/ReduxSimpleStarter.git
+- Type in terminal > git clone https://github.com/madhatterbinary/Rungway.git
 - Navigate to the root folder in terminal
 - Type > npm install 
 - Type > npm start
