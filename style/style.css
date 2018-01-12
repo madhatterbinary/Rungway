@@ -37,3 +37,9 @@
 .embed-responsive {
    border: 1px solid #ddd;	
 }
+@media (max-width: 768px) {
+   .col-md-4.list-group {
+	 padding-left: 0px;
+	 padding-right: 0px;
+   }
+}
